@@ -1,0 +1,7 @@
+/test
+/tester
+/tester2
+*.o
+*.out
+*.a
+*.vscode
